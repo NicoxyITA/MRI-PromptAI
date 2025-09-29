@@ -1,0 +1,16 @@
+{
+  "base_prompt_results": [],
+  "axis_specific_results": [],
+  "concise_results": [],
+  "test_timestamp": "2025-07-03T18:42:01.546746",
+  "model_initialization_test": false,
+  "test_config": {
+    "limit_per_axis": 1,
+    "base_dir": "imagesPrompt",
+    "prompt_types_tested": [
+      "base",
+      "axis_specific",
+      "concise"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "base_prompt_results": [
+    {
+      "timestamp": "2025-07-03T18:32:45.044864",
+      "axis": "X",
+      "filename": "newplot (1).png",
+      "prompt_type": "base",
+      "result": "ERROR: Image model not initialized",
+      "status": "error"
+    },
+    {
+      "timestamp": "2025-07-03T18:32:45.054845",
+      "axis": "Y",
+      "filename": "newplot (2).png",
+      "prompt_type": "base",
+      "result": "ERROR: Image model not initialized",
+      "status": "error"
+    },
+    {
+      "timestamp": "2025-07-03T18:32:45.058723",
+      "axis": "Z",
+      "filename": "newplot (3).png",
+      "prompt_type": "base",
+      "result": "ERROR: Image model not initialized",
+      "status": "error"
+    }
+  ],
+  "axis_specific_results": [
+    {
+      "timestamp": "2025-07-03T18:32:45.525829",
+      "axis": "X",
+      "filename": "newplot (1).png",
+      "prompt_type": "axis_specific",
+      "result": "ERROR: Image model not initialized",
+      "status": "error"
+    },
+    {
+      "timestamp": "2025-07-03T18:32:45.533931",
+      "axis": "Y",
+      "filename": "newplot (2).png",
+      "prompt_type": "axis_specific",
+      "result": "ERROR: Image model not initialized",
+      "status": "error"
+    },
+    {
+      "timestamp": "2025-07-03T18:32:45.538593",
+      "axis": "Z",
+      "filename": "newplot (3).png",
+      "prompt_type": "axis_specific",
+      "result": "ERROR: Image model not initialized",
+      "status": "error"
+    }
+  ],
+  "test_timestamp": "2025-07-03T18:32:45.573660",
+  "test_config": {
+    "limit_per_axis": 2,
+    "base_dir": "imagesPrompt",
+    "prompt_types_tested": [
+      "base",
+      "axis_specific"
+    ]
+  }
+}
